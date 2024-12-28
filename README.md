@@ -16,7 +16,7 @@
   * improving on the same
 * dumping the output to a text file
   * that is then picked up for summarizing
-  * using ~~genism~~[^2] [^3] *sumy* standard module[^4] [^5]
+
   * improving on the same
 
 ### Improving on the baseline
