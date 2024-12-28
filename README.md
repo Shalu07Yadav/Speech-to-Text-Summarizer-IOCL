@@ -1,4 +1,4 @@
-# Speech to Text | Meeting summarizer model
+# Speech to Text Summarizing Model 
 ---
 ## Description
 * The goal is to make a model which **translates audio from meetings and encodes it to a text file**, which on completion is *summarized* in to a smaller, concise *list of bullet points* covering the entire meeting. The initial idea is to implement it through pre-trained models, but the accuracy and efficiency has to take care of.
